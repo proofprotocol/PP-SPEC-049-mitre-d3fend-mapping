@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-049: Proof of Efficacy Mapping to MITRE D3FEND™"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-08"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-049-mitre-d3fend-mapping"
+abstract: "A Proof Protocol mapping specification connecting MITRE D3FEND defensive tactic, defensive technique, and digital artifact context to independently generated evidence, efficacy measurements, and proof artifacts."
+keywords:
+  - Proof Protocol
+  - Proof of Efficacy
+  - MITRE D3FEND
+  - countermeasures
+  - digital artifacts
+  - cybersecurity
+  - evidence
+  - efficacy
+  - proof
