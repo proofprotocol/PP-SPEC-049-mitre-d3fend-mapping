@@ -119,7 +119,7 @@ MITRE D3FEND™ is external work maintained by The MITRE Corporation, funded by 
 
 The D3FEND Terms of Use (https://d3fend.mitre.org/tou) grant a non-exclusive, royalty-free license to use D3FEND for research, development, and commercial purposes. Any copy made for such purposes is authorized provided that MITRE's copyright designation and the license are reproduced in that copy. The D3FEND ontology source repository (github.com/d3fend/d3fend-ontology) is distributed under the MIT License. D3FEND pages also reference MITRE ATT&CK®, MITRE ATLAS, and Aerospace SPARTA content, each subject to its own terms.
 
-This Proof Protocol mapping is independently authored and licensed under **CC BY 4.0**. It references D3FEND identifiers and concepts for interoperability and does not relicense MITRE material.
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 ### Required attribution
 
